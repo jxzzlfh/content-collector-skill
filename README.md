@@ -1,7 +1,5 @@
 # OpenClaw - 智能内容自动化归集系统
 
-![OpenClaw Banner](file:///Users/hongchen/.gemini/antigravity/brain/f6d91a85-54f8-439f-bfe6-4f38309fb328/openclaw_banner_1772993380377.png)
-
 ## 🚀 项目简介
 
 **OpenClaw** 是一个基于 AI 驱动的自动化内容收集与知识管理系统。它能够自动识别、抓取并收录社交平台（如微信公众号）、飞书文档及各类网页内容，并将其实时转化为结构化的飞书知识库文档。
